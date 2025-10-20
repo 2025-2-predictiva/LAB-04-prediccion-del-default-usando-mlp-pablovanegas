@@ -18,8 +18,8 @@ MODEL_COMPONENTS = [
     "MLPClassifier",
 ]
 SCORES = [
-    0.661,
-    0.666,
+    0.6,
+    0.6,
 ]
 METRICS = [
     {
